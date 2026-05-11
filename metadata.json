@@ -1,0 +1,6 @@
+{
+  "name": "SwiftShop E-Commerce",
+  "description": "A modern e-commerce platform with a user-friendly product catalog, search/filter functionality, and an order management dashboard. Features a simplified checkout process without mandatory login.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
