@@ -8,6 +8,6 @@ coverage/
 
 *.log
 .env*
-!.env.example
-
+.env.example
+.gitignore
 /generated/prisma
