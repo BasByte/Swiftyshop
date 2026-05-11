@@ -49,13 +49,13 @@ export default async function HomePage() {
             <img
               src="/background/header_md.png"
               alt="E-commerce Hero"
-              className="w-full h-full object-cover hidden md:block"
+              className="w-full h-full object-fill hidden md:block"
               referrerPolicy="no-referrer"
             />
             {/* Dark Overlay for text readability */}
           </div>
 
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-30 py-16 sm:py-20 lg:py-24 w-full">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-30 py-10 sm:py-10 lg:py-10 w-full">
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Link
                 href="/products"

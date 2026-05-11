@@ -22,7 +22,7 @@ export default function NavbarClient({
       <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="h-16 flex items-center justify-between">
           <Link href="/" className="text-2xl font-bold tracking-tight  hover:opacity-80 transition-opacity">
-            SWIFT<span className="text-indigo-600">SHOP</span>
+            SWIFTY<span className="text-indigo-600">SHOP</span>
           </Link>
           
           <div className="hidden md:flex flex-1 max-w-md mx-8">

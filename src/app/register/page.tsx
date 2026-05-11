@@ -33,7 +33,7 @@ export default function RegisterPage() {
       <div className="bg-white p-8 rounded-3xl shadow-xl w-full max-w-md border border-slate-200">
         <div className="flex items-center gap-2 mb-8 justify-center">
             <ShoppingBag className="w-8 h-8 text-indigo-600" />
-            <h1 className="text-2xl font-black tracking-tight text-slate-900">SWIFTSHOP</h1>
+            <h1 className="text-2xl font-black tracking-tight text-slate-900">SWIFTYSHOP</h1>
         </div>
         
         <h2 className="text-xl font-bold text-slate-900 mb-6 text-center">Create Account</h2>

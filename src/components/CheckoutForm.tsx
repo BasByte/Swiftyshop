@@ -98,7 +98,7 @@ export default function CheckoutForm({ productId, productName, productPrice, isL
                 name="name"
                 defaultValue={userName}
                 type="text"
-                placeholder="John Doe"
+                placeholder="Nom Prenom"
                 className="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 placeholder:text-slate-300 focus:bg-white focus:ring-2 focus:ring-indigo-500 transition-all outline-none text-sm font-medium"
               />
             </div>
@@ -109,7 +109,7 @@ export default function CheckoutForm({ productId, productName, productPrice, isL
                 required
                 name="phone"
                 type="tel"
-                placeholder="+1 (555) 000-0000"
+                placeholder="+213 0000000"
                 className="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 placeholder:text-slate-300 focus:bg-white focus:ring-2 focus:ring-indigo-500 transition-all outline-none text-sm font-medium"
               />
             </div>
@@ -121,7 +121,7 @@ export default function CheckoutForm({ productId, productName, productPrice, isL
               required
               name="address"
               rows={2}
-              placeholder="123 Modern Ave, Creative City"
+              placeholder="Cité 20 Août 1955, Alger"
               className="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 placeholder:text-slate-300 focus:bg-white focus:ring-2 focus:ring-indigo-500 transition-all outline-none resize-none text-sm font-medium"
             />
           </div>

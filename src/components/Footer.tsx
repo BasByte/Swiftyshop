@@ -15,7 +15,7 @@ export default async function Footer() {
               href="/"
               className="inline-block text-2xl font-bold tracking-tight text-slate-900 hover:opacity-80 transition-opacity mb-4"
             >
-              SWIFT<span className="text-indigo-600">SHOP</span>
+              SWIFTY<span className="text-indigo-600">SHOP</span>
             </Link>
             <p className="text-slate-600 font-medium text-sm mb-8">
               {dict.footer.desc}
@@ -45,7 +45,7 @@ export default async function Footer() {
         </div>
         <div className="border-t border-slate-400 pt-6 w-full text-center">
           <p className="text-xs font-bold text-slate-400 uppercase tracking-widest">
-            © {new Date().getFullYear()} SwiftShop. {dict.footer.rights} •
+            © {new Date().getFullYear()} SwiftyShop. {dict.footer.rights} •
             Developed by{" "}
             <a
               href=""
